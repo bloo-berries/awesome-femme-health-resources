@@ -10,5 +10,6 @@
 #### Diagnostics
 
 - [Daye](https://www.yourdaye.com/)
+  - At home, self-testing HPV + STI + Microbiome Screening, and gynecological consultations
 
 ## Autoimmune Disorders
