@@ -13,11 +13,17 @@ A non-exhaustive list of resources for general femme-health related conditions, 
 
 #### Diagnostics
 
+#### Treatments
+
+## Sexual Health
+
+#### Diagnostics
+
 - [Daye](https://www.yourdaye.com/)
   - At home, self-testing HPV + STI + Microbiome Screening, and gynecological consultations
 - [Wisp](https://hellowisp.com/at-home-testing-kits)
   - At-Home Testing & Diagnostics
-
+  - 
 #### Treatments
 
 ## Autoimmune Disorders
