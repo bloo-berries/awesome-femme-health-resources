@@ -19,3 +19,7 @@ A non-exhaustive list of resources for general femme-health related conditions, 
 #### Treatments
 
 ## Autoimmune Disorders
+
+#### Diagnostics
+
+#### Treatments
