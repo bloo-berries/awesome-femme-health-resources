@@ -31,3 +31,6 @@ A non-exhaustive list of resources for general femme-health related conditions, 
 #### Diagnostics
 
 #### Treatments
+
+- [WellTheory](https://www.welltheory.com/)
+  - Comprehensive remote support for autoimmune disorders
