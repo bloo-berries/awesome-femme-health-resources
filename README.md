@@ -7,6 +7,7 @@ A non-exhaustive list of resources for general femme-health related conditions, 
 
 - [Reproductive Health](#reproductive-health)
 - [Autoimmune Disorders](#autoimmune-disorders)
+- [Research](#research)
 
 ## Reproductive Health
 * For Endometriosis/Adenomyosis specific resources, please reference: [awesome-endo-adeno-resources](https://github.com/bloo-berries/awesome-endo-adeno-resources?tab=readme-ov-file#diagnosis)
@@ -34,3 +35,8 @@ A non-exhaustive list of resources for general femme-health related conditions, 
 
 - [WellTheory](https://www.welltheory.com/)
   - Comprehensive remote support for autoimmune disorders
+ 
+## Research
+
+- [The effect of air pollution exposure on menstrual cycle health](https://www.thelancet.com/journals/lanplh/article/PIIS2542-5196(25)00080-4/fulltext)
+  - Toxicological evidence suggests that ambient air pollution has endocrine-disrupting properties that can affect menstrual cycle functioning, which represents an important marker of women's reproductive health
