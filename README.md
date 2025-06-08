@@ -6,6 +6,7 @@ A non-exhaustive list of resources for general femme-health related conditions, 
 ## Table of Contents
 
 - [Reproductive Health](#reproductive-health)
+- [Breast Health](#breast-health)
 - [Autoimmune Disorders](#autoimmune-disorders)
 - [Research](#research)
 
@@ -15,6 +16,11 @@ A non-exhaustive list of resources for general femme-health related conditions, 
 #### Diagnostics
 
 #### Treatments
+
+#### Research
+
+- [The effect of air pollution exposure on menstrual cycle health](https://www.thelancet.com/journals/lanplh/article/PIIS2542-5196(25)00080-4/fulltext)
+  - Toxicological evidence suggests that ambient air pollution has endocrine-disrupting properties that can affect menstrual cycle functioning, which represents an important marker of women's reproductive health
 
 ## Sexual Health
 
@@ -26,6 +32,19 @@ A non-exhaustive list of resources for general femme-health related conditions, 
   - At-Home Testing & Diagnostics
   - 
 #### Treatments
+
+## Breast Health
+
+#### Diagnostics
+
+- [DeepLook](https://www.deeplookmedical.com/)
+  - AI Platform for early Breast Cancer Detection
+- [Spot It Early](https://www.spotitearly.com/)
+  - Single at-home test for multiple cancer types, all based on one breath sample.
+
+#### Treatments
+
+#### Research
 
 ## Autoimmune Disorders
 
