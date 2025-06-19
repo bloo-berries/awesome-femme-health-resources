@@ -29,7 +29,9 @@ A non-exhaustive list of resources for general femme-health related conditions, 
   - At home, self-testing HPV + STI + Microbiome Screening, and gynecological consultations
 - [Wisp](https://hellowisp.com/at-home-testing-kits)
   - At-Home Testing & Diagnostics
-  - 
+- [Inne](http://www.inne.io/)
+  - Determine your fertility based on your saliva.
+
 #### Treatments
 
 ## Breast Health
