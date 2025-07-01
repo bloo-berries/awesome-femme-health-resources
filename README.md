@@ -17,10 +17,10 @@ A non-exhaustive list of resources for general femme-health related conditions, 
 #### Treatments
 
 #### Research
-### PCOS
+##### PCOS
 - [Polycystic ovary syndrome may be passed on via chemical tags on DNA](https://www.newscientist.com/article/2486325-polycystic-ovary-syndrome-may-be-passed-on-via-chemical-tags-on-dna/)
   - Eggs and embryos from people with polycystic ovary syndrome have altered patterns of so-called epigenetic tags
-### Environmental
+##### Environmental
 - [The effect of air pollution exposure on menstrual cycle health](https://www.thelancet.com/journals/lanplh/article/PIIS2542-5196(25)00080-4/fulltext)
   - Toxicological evidence suggests that ambient air pollution has endocrine-disrupting properties that can affect menstrual cycle functioning, which represents an important marker of women's reproductive health
 
