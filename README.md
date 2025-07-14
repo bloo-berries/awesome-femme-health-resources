@@ -44,7 +44,9 @@ A non-exhaustive list of resources for general femme-health related conditions, 
 - [DeepLook](https://www.deeplookmedical.com/)
   - AI Platform for early Breast Cancer Detection
 - [Spot It Early](https://www.spotitearly.com/)
-  - Single at-home test for multiple cancer types, all based on one breath sample.
+  - Single at-home test for multiple cancer types, all based on one breath sample
+- [X-Wear; X-ray boosting fabric could make mammograms less painful](https://www.newscientist.com/article/2486079-x-ray-boosting-fabric-could-make-mammograms-less-painful/)
+  - Researchers at Hong Kong Polytechnic University created a textile called X-Wear that scintillates – meaning it releases light when exposed to X-rays
 
 #### Treatments
 
